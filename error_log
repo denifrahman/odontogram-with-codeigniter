@@ -1,0 +1,4 @@
+[13-Nov-2017 17:05:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/uptopromo/public_html/bankpasienfkgunair.com/application/controllers/Master_user.php on line 175
+[05-Jan-2018 14:35:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/uptopromo/public_html/bankpasienfkgunair.com/application/controllers/Rawat_tambah.php on line 530
+[05-Jan-2018 16:05:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/uptopromo/public_html/bankpasienfkgunair.com/application/controllers/Rawat_tambah.php on line 544
+[27-Jan-2018 18:29:25 UTC] PHP Fatal error:  Cannot redeclare Rawat_tambah::base64toImg() in /home/uptopromo/public_html/bankpasienfkgunair.com/application/controllers/Rawat_tambah.php on line 680
