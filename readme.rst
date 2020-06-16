@@ -5,13 +5,6 @@ Odontogram With Codeigniter
 Aplikasi ini hanya untuk belajar, dilarang keras menjual belikan aplikasi tanpa sepengetahuan owner.
 jika ingin menjual atau menggunakan odontogram untuk kebutuhan SIMRS silahkan kontak develepor by denifrahman,
 
-
-************
-SCRENSHOOT 
-************
-<img src=“http://niagatravel.com/donasi/assets/odontogram.jpg”>
-
-
 ************
 Installation
 ************
