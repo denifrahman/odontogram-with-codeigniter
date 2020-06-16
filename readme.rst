@@ -10,7 +10,9 @@ jika ingin menjual atau menggunakan odontogram untuk kebutuhan SIMRS silahkan ko
 SCRENSHOOT 
 ************
 
-![alt text](http://niagatravel.com/donasi/assets/odontogram.jpg)
+<p align="center">
+  <img src="http://niagatravel.com/donasi/assets/odontogram.jpg" width="350" title="hover text">
+</p>
 
 
 ************
